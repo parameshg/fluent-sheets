@@ -1,2 +1,3 @@
-# fluent-sheets
-reading google sheets using fluent interface
+# Fluent Sheets
+
+Reading and writting Google sheets using fluent interface.
